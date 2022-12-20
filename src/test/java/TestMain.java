@@ -6,6 +6,6 @@ public class TestMain {
 
     @Test
     public void testInputIsEven(){
-        assertEquals(Main.checkIfInputIsAnEvenNumber(3), false); // Assertion
+        adfgsdfgsdfgsdfhsfdhdshf // Assertion
     }
 }
